@@ -1,0 +1,50 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/* <!-- Q6 Customization --> */
+.bodyA {
+  margin-bottom: 60px;
+}
+
+.div9 {
+  background-color: #440099;
+  color: #ffff;
+  border-radius: 20%;
+  border-left: solid 0.5rem #D62598;
+  border-bottom: solid 0.1rem #D62598;
+}
+
+.headUnder{
+  border-bottom: px #ffff solid;
+}
+
+
+
+.callout {
+  padding: 1.25rem;
+  margin: 1.24rem 1.25rem 0 0;
+  border: 1px solid lightgray;
+  border-left-color: silver;
+  border-left-width: 0.50rem;
+  border-radius: .25rem;
+}
+
+.callout-info {
+  border-left-color: deepskyblue;
+}
+
+.callout-info-g {
+  border-left-color:  #00C389;
+}
